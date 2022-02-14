@@ -1,0 +1,10 @@
+img {
+  width: 250px;
+  border-radius: 100px;
+}
+img, p {
+  display: inline-block;
+}
+body {
+  background-color: lightpink;
+}
